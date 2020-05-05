@@ -1,0 +1,6 @@
+classes=1
+train=/home/zj/detection/yolov3-new/data/TTKtrain.txt
+valid=/home/zj/detection/yolov3-new/data/TTKval.txt
+names=/home/zj/detection/yolov3-new/data/TTK.name
+backup=backup/
+eval=voc

@@ -1,0 +1,1 @@
+下载好mmdetection然后弄个/home/zj/detection/new_mmcv/mmdetection/mmdet/ops/dcn链接到该文件夹下面命名成dcn_mmcv
